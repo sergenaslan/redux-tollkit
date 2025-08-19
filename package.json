@@ -1,0 +1,17 @@
+{
+  "name": "redux-toolkit-demo",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "react-redux": "^8.0.0",
+    "@reduxjs/toolkit": "^1.9.0"
+  },
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}
